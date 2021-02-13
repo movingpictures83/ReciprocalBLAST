@@ -1,0 +1,2 @@
+Prefix plugins/ReciprocalBLAST/example
+Plugin ReciprocalBLAST inputfile parameters.txt outputfile rbb_out

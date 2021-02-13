@@ -1,0 +1,2 @@
+infile1	PA1_PA14
+infile2	PA14_PA1
